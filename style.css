@@ -192,6 +192,8 @@ remVi {
   .container {
     display: grid;
     justify-content: center;
-    margin: 40px auto;
+    align-content: center;
+    align-items: center;
+    margin: 100px auto;
   }
 }
